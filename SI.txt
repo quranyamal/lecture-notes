@@ -1,0 +1,79 @@
+ SI Notes | February 3rd, 2017
+
+Five forces model:
+1. Kekuatan pembeli 				 --> Program Loyalitas
+2. Kekuatan pemasok					 --> B2B marketplace, memperbesar opsi suplier
+3. Ancaman produk/jasa pengganti	 --> Alternatif berbasis IT
+4. Ancaman dari pendatang baru		 --> Buat barrier
+5. Persaingan antar pesaing yang ada --> Menggunakan sistim IT agar lebih efisien
+
+Menghilangkan perbedaan pandangna antara orang bisnis dan orang teknikal
+- Tim Proyek
+	Suatu tim yang dirancang untuk memenuhi suatu sasaran yang spesifik,
+	dan dibubarkan jika produk itu selesai
+
+The 3 Generic Stratigies:
+1. Cost Leadership
+	-> Menekan biaya
+
+2. Differentiation
+	-> mempunyai banyak macam produk
+3. Focused Strategy
+	-> fokus pada suatu pasar yang spesifik
+
+Competitive Scope
+Lower Cost + Broad Target 		: Cost Leadership
+Lower Cost + Narrow Target		: Cost Focus
+Differentiation + Broad Target	: Differentiation
+Differentiation + Narrow Target	: Differentiation Focus
+
+The Value Chain:
+Business Process: Kumpulan aktifitas untuk memenuhi suatu tugas yang spesifik
+Value Chain		: pandang organisasi sebagai suatu rantai nilai
+
+Tugas 2:
+Buat Rantai NIlai sustu Organisasi, baik berupa barang/jasa
+minimal ada 15 aktifitas, baiki primary atau supporting, beri tanda berbeda
+
+
+NOTE SI, 8 Feb 2017____________________________________________________________
+
+Value Chain
+	Ada input dan output infomrasi setiap proses.
+
+Tahap pengembangan SI
+- Investigasi Sistem / Uji Kelayakan
+- Analisis System: functional requirement
+	Requirement: not only needs, but also constraint
+		-> Lebih tepat diartikan persyaratan daripada kebutuhan
+- Desain Sistem
+- Pengembangan Sistem
+- Pemeliharaan Sistem
+------------------------
+
+1. ANALISIS SISTEM
+	-> memecah-mecah persoalan, fokus kepada persoalan & kebutuhan bisnis 
+	-> tidak terikat dengan teknologi yang digunakan
+	-> apa yang harus dilakukan
+	-> Precedence System / Unprecedence Syetem
+	-> System analyst. Analis bisnis, analis teknis
+	Steps:
+		Scope Defenition (mengevaluasi kegunaan sistim yg ada), 
+		Problem Analysis, 
+		Requirement Analysis (kesepakatan antar stakeholder)
+		Logical Design (memodelkan kebutuhan sistem)
+		Decision Analysis (mencari alternatif-alternatif)
+	-> requierement dihasilkan: user requirement
+	-> Identifikasi Masalah: PIECES
+
+2. DESAIN
+	-> technology dependent
+	-> bagaimana melakukan
+	-> in practice, requirement and design are inseparable
+	-> requirement yg dihasilkan: system requirement
+	Lima Karakterisstik Keberhasilan Penentuan Kebutuhan
+		- Ketidak normalan
+		- Kenetralan
+		- Melonggarkan batasan-batasan
+		- Perhatian kepada detil
+		- Reframing
